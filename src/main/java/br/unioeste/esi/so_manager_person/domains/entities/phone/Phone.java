@@ -1,4 +1,4 @@
-package br.unioeste.esi.so_manager_person.domain.entities.phone;
+package br.unioeste.esi.so_manager_person.domains.entities.phone;
 
 import jakarta.persistence.*;
 import lombok.*;
